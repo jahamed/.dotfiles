@@ -1,0 +1,12 @@
+echo "Sourcing .avvo_env"
+export ACCOUNT_BASE_URL='http://localhost:5029/'
+export QUASI_BASE_URL='http://localhost:5001/'
+export CONTENT_BASE_URL='http://localhost:5004/'
+export BILLBOARD_BASE_URL='http://localhost:5008/'
+export LEDGER_BASE_URL='http://localhost:5002/'
+export GNOMON_BASE_URL='http://localhost:5005/'
+export SOLICITOR_BASE_URL='http://localhost:5007/'
+export API_BASE_URL='http://localhost:3003/'
+export SUBSCRIPTIONS_BASE_URL='http://localhost:4084/'
+export SOCA_BASE_URL='http://localhost:3004/'
+export BANANASTAND_BASE_URL='http://localhost:3001/'
