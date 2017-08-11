@@ -271,6 +271,10 @@ end
 
 hs.hotkey.bind(hyper, "D", mouseHighlight)
 
+-- Get a list of all applications running
+hs.fnutils.each(hs.application.runningApplications(), function(app) print(app:title()) end)
+
+
 
 
 
